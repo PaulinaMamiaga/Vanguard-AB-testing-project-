@@ -63,5 +63,4 @@ The success of the experiment was evaluated using the following metrics:
 * **Kanban (Trello)**: Project management, task tracking, and workflow organization.
 
 ## Dashboard
-
 [https://public.tableau.com/app/profile/paulina.mamiaga/viz/AB_Test_UI_Completion_Analysis/Dashboard1]
