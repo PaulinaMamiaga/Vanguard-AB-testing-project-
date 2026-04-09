@@ -62,3 +62,6 @@ The success of the experiment was evaluated using the following metrics:
 
 ## Dashboard
 https://public.tableau.com/app/profile/paulina.mamiaga/viz/AB_Test_UI_Completion_Analysis/Dashboard1
+
+## Slide
+https://www.canva.com/design/DAG-hNnCmAs/95BOlEcKFExYUj9BnHiZew/edit
