@@ -1,5 +1,3 @@
-# Vanguard Digital Experience A/B Test: UI Redesign Analysis
-
 ## Project Overview
 This project evaluates a digital experiment conducted by Vanguard from **March 15, 2017, to June 20, 2017**. The goal was to determine whether a modern User Interface (UI) with in-context prompts (cues, hints, or instructions) improves the completion rate of an online investment process compared to the traditional interface.
 
@@ -63,4 +61,4 @@ The success of the experiment was evaluated using the following metrics:
 * **Kanban (Trello)**: Project management, task tracking, and workflow organization.
 
 ## Dashboard
-[https://public.tableau.com/app/profile/paulina.mamiaga/viz/AB_Test_UI_Completion_Analysis/Dashboard1]
+👉 https://public.tableau.com/app/profile/paulina.mamiaga/viz/AB_Test_UI_Completion_Analysis/Dashboard1
